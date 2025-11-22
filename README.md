@@ -2,6 +2,8 @@
 
 Building blocks of a standalone desktop environment.
 
+Created and tested on an Ach+KDE based system. For personal use; Wholly unsuited for broad application.
+
 ## Components
 
 - `Hyprland`

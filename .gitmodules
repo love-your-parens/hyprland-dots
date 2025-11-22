@@ -1,0 +1,15 @@
+[submodule "hyprland-config"]
+	path = hyprland-config
+	url = git@github.com:love-your-parens/hyprland-config.git
+[submodule "matugen-config"]
+	path = matugen-config
+	url = git@github.com:love-your-parens/matugen-config.git
+[submodule "waybar-config"]
+	path = waybar-config
+	url = git@github.com:love-your-parens/waybar-config.git
+[submodule "hypr-theme-swapper"]
+	path = hypr-theme-swapper
+	url = git@github.com:love-your-parens/hypr-theme-swapper.git
+[submodule "swaync-config"]
+	path = swaync-config
+	url = git@github.com:love-your-parens/swaync-config.git
